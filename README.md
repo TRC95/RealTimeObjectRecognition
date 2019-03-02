@@ -1,3 +1,3 @@
 # RealTimeObjectRecognition
 
-Test message for README.md
+Test pushing without password; Generated SSH-key
